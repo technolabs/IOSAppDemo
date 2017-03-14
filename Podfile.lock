@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.2.0)
+  - SwiftLoader (0.2.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.2.0)
+  - SwiftLoader
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  SwiftLoader: 12d7a6f661f5e9a2c9a72003e7dd6162f4ff0cc4
+
+PODFILE CHECKSUM: e05285fe910e60119dcf315c0dae3c192bd14837
+
+COCOAPODS: 1.1.1
